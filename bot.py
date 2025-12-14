@@ -5,8 +5,8 @@ from telegram import Bot
 import logging
 import os
 
-BOT_TOKEN = os.environ.get('BOT_TOKEN')
-GROUP_ID = int(os.environ.get('GROUP_ID'))
+BOT_TOKEN = os.environ.get('8274488764:AAHfo87eHioo2Iz_Ii2kyVIPHDcIuc6hnRo')
+GROUP_ID = int(os.environ.get('-1005019746478'))
 
 SONY = "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json"
 FANCODE = "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.json"

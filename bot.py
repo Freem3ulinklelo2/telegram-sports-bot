@@ -143,7 +143,7 @@ async def process():
 
 async def main():
     global bot
-    bot = Bot(BOT_TOKEN)
+    bot = Bot(8274488764:AAHfo87eHioo2Iz_Ii2kyVIPHDcIuc6hnRo)
     logging.info("🤖 Bot Started!")
     await process()
 

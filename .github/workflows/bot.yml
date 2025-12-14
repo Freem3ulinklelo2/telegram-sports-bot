@@ -4,8 +4,7 @@
     GROUP_ID: ${{ secrets.GROUP_ID }}
   run: |
     python test_bot.py
-
-
+    
 name: Sports Bot
 
 on:
